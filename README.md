@@ -42,5 +42,5 @@ So, our plan is as follows:
 
 Ready?
 
-We start soon
+Let`s do it:)
 
