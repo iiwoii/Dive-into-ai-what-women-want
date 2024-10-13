@@ -1,4 +1,5 @@
-Below will be the steps for women without a tech background to learn AI. 
+Below are the steps for women without a tech background to learn AI. 
+
 While there are many excellent GitHub projects available for everyone to study AI, this particular one aims to address the psychological barriers that women often face when learning math, programming, and other technical subjects.
 
 
