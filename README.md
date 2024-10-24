@@ -3,7 +3,7 @@ Below are the steps for women without a tech background to learn AI.
 While there are many excellent GitHub projects available for everyone to study AI, this particular one aims to address the psychological barriers that women often face when learning math, programming, and other technical subjects.
 
 
-And remember, if you don't understand something, it's not that you don't understand well; it means that I don't explain it well enough:)
+And remember, if you don't understand something, it's not that you don't have enough intellectual ability to understand it; it means that I haven't explained it well enough :)
 
 You may contact me on linkedin https://www.linkedin.com/in/katarina-prozorova-md-mba-13204691/
 
